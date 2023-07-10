@@ -1,6 +1,6 @@
 #ifndef CARRITO_H
 #define CARRITO_H
-#include "Producto.h"
+#include "Producto.hpp"
 
 class Carrito{
     public:

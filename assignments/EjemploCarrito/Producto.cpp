@@ -1,4 +1,4 @@
-#include "Producto.h"
+#include "Producto.hpp"
 
 Producto::Producto(){
   nombre = "No registrado";
