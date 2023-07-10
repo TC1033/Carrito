@@ -1,0 +1,5 @@
+Mouse_RD 234.50
+USB8_XEX 120.40
+MousePad 345.30
+Pantalla 1789.99
+TecladoI 2345.60
